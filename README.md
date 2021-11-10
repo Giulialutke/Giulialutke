@@ -1,6 +1,5 @@
 Oie eu  sou  Giulia Grasielle Lutke 👋
 
-
 - 🌱 I’m currently learning Java.
 - ☎  How to reach me : giulialutke@gmail.com
 
