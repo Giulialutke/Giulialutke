@@ -1,7 +1,6 @@
 Oie eu  sou  Giulia Grasielle Lutke 👋
 
 - 🌱 I’m currently learning Java.
-- ☎  How to reach me : giulialutke@gmail.com
 - ⚙ Criações : https://meusitezinho.netlify.app/
 
 <div>
@@ -11,11 +10,17 @@ Oie eu  sou  Giulia Grasielle Lutke 👋
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+   <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+ <img align="center" alt="giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   <img align="center" alt="giu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
     <img align="center" alt="giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="right" alt="giu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/BtQ8M7Rxi4cAAAAC/adventure-time-princess-bubblegum.gif">
-</div>
+   <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+   </div>
    
   ##
   <di>
