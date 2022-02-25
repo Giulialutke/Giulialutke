@@ -1,7 +1,8 @@
 Oie eu  sou  Giulia Grasielle Lutke 👋
 
 - 🌱 I’m currently learning Java.
-- ⚙ Criações : https://meusitezinho.netlify.app/
+- ⚙ Criação : https://meusitezinho.netlify.app/
+- ⚙ Criação joguinho : https://mygaminho.netlify.app/
 
 <div>
   <a href="https://github.com/Giulialutke">
